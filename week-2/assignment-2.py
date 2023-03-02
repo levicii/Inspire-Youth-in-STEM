@@ -1,6 +1,5 @@
 #making a table in python
 print# import module
-from tabulates import tabulate
 
 # assign data
 mydata = [
