@@ -1,0 +1,36 @@
+*{
+    background-color:lightgreen;
+}
+
+h1{
+    font-size: 12px;
+    font-weight: bold;
+    color: darkgrey;
+    align-self: center;
+    background-color: black;
+    font-family: Arial,serif
+}
+#msg-button{
+
+    color: darkseagreen;
+    margin: 25px;
+    align-self: center;
+    border: none;
+    border-radius:10px;
+    background-color: black;
+}
+
+p{
+    color: cyan;
+    font-size: x-large;
+    align-self: auto;
+    font-family: sans-serif;
+    font-weight: lighter; 
+}
+#email-button{
+    color: darkgoldenrod;
+    border: none;
+    background-color: black;
+    border-radius: inherit;
+    
+}
